@@ -9,6 +9,7 @@ in. Once logged in, a user should be able to create new topics, add new entries,
 #update, after a couple of dayzzzzz, web app is live at https://web-apps-using-django.onrender.com/
 
 So, I: 
+
 i. Built models (Topics & Entries)
 ii. Created views and templates
 iii. Added user registration and authentication
