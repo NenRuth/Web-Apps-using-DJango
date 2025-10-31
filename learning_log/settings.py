@@ -147,32 +147,32 @@ if not DEBUG:
     SECURE_BROWSER_XSS_FILTER = True
     SECURE_CONTENT_TYPE_NOSNIFF = True
     X_FRAME_OPTIONS = 'DENY'
-```
+
 
 ---
 
 ## Step 3: Create a Procfile
 
 **Create a file named `Procfile` (no extension) in your project root:**
-```
+
 web: gunicorn learning_log.wsgi --log-file -
-```
+
 
 ---
 
 ## Step 4: Create runtime.txt
 
 **Create `runtime.txt` in your project root:**
-```
+
 python-3.13.0
-```
+
 
 ---
 
 ## Step 5: Update .gitignore
 
 **Create `.gitignore` file in your project root:**
-```
+
 *.pyc
 __pycache__/
 ll_env/
