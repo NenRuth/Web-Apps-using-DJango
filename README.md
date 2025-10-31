@@ -15,3 +15,25 @@ ii. Created views and templates
 iii. Added user registration and authentication
 iv. Styled with Bootstrap
 v. DEPLOYED TO THE INTERNET!
+
+
+Version Control & Deployment
+- Git basics (init, add, commit)
+- GitHub repository management
+- Pushing code to remote repositories
+- .gitignore configuration
+- Deploying to cloud platforms (Render)
+- Requirements.txt management
+
+Database Management
+- SQLite database
+- PostgreSQL (for production)
+- Database queries through Django ORM
+
+Development Tools & Environment
+- Virtual environments (venv)
+- Package management (pip)
+- Command line/terminal usage (PowerShell)
+- Python IDE/text editor usage
+- Requirements file management
+
